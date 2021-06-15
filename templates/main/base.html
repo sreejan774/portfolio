@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html style = "scroll-behavior: smooth;">
+<head>
+	<title>Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/materialize.min.css'%}">
+	<script src="{% static 'js/materialize.min.js' %}"></script>
+	
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+<body>
+	{% block body %}
+	{% endblock %}
+
+
+	{% block script %}
+	{% endblock %}
+</body>
+</html>

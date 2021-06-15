@@ -1,0 +1,20 @@
+{
+    
+    "NAME" : "Sreejan Sourav",
+    "TITLE" : "Python and Web Developer",
+    "ABOUT_ME" : [
+        "Prefinal year student based in New Delhi with a extensive experience in Python development and C++. I have a diversified knowledge in various data structures and algorithms. Experienced developer with a demonstrated history in working with different development frameworks like django, flask, bootstrap, materialize css etc. Skilled in various management activities.",
+        "Strong professional having experience as Teaching Assistant with a demonstrated history of working in the e-learning industry. Skilled in Python (Programming Language), C++, HTML, Node.js, and Data Structures. Versatile educational background with Bachelor of Technology - BTech focused in Computer Science from Bharati Vidyapeeth's College of Engineering."
+    ],
+    "EXPERIENCE": [
+        ["Teaching Assistant","Coding Ninjas, New Delhi","Oct 2020 - Jan 2021","https://www.codingninjas.com/","https://drive.google.com/file/d/1NbSZ7Sc94mQQYgusM16lynYyAZOVulUe/view","The responsibilities were to assist the enrolled students and resolve their daily competitive programming related doubts."],
+        ["Summer Trainee","Coding Ninjas, New Delhi","June 2020 - July 2020","https://www.codingninjas.com/","https://drive.google.com/file/d/1x1Sl4qxDAReoSUDnk907K_k1JSozkMKB/view","Underwent training in competitive programming with algorithms and data structures. Completed the four weeks course along with the mainstream project."]
+
+    ],
+    "PROJECTS": [
+        ["Covileer","The project aims to provide a platform for supplying delivery assistance to people affected adversely with COVID-19. On the platform the volunteer can connect with quarantined people and can deliver the essential items that user has requested.","https://github.com/sreejan774/Covileer"],
+        ["Expert System For Breast Cancer Detection","Breast cancer constitutes as one of the fatal diseases in the world and about the major deaths among the female population. The developed expert system helps for the breast cancer prediction from required input data.","https://github.com/sreejan774/Fuzzy-Expert-System"],
+        ["Contact List Manager With Autosuggestion","The main objective of developing this project Contact list manager is to store the details. The main focus of the project is to make efficient searching by implementing the feature of autosuggestion using tries.","https://github.com/sreejan774/Autosuggest"],
+        ["UI for Medical Website","It is a single page website. The objective of this project was to implement the knowledge of HTML, CSS and Bootstrap.","https://sreejan774.github.io/Medicare/"]  
+    ]    
+}
