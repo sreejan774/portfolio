@@ -137,4 +137,4 @@ STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')
 
 DATA = json.load(open(os.path.join(BASE_DIR,'data.json')))
 
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
